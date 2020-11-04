@@ -1,0 +1,11 @@
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.csprojAssemblyReference.cache
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.Form1.resources
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.Properties.Resources.resources
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.csproj.GenerateResource.cache
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cho\source\repos\WinApp1\bin\Debug\WinApp1.exe.config
+C:\Users\Cho\source\repos\WinApp1\bin\Debug\WinApp1.exe
+C:\Users\Cho\source\repos\WinApp1\bin\Debug\WinApp1.pdb
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.exe
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.pdb
+C:\Users\Cho\source\repos\WinApp1\obj\Debug\WinApp1.Form2.resources
